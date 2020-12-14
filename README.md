@@ -1,6 +1,8 @@
 # 🦈 BioScraper
 
-A simple web scraper to feed real-time data to researchers from reliable wildlife sources for Criterion D Wildlife Tracking Research Lab (Biology 9).
+A simple web scraper to feed real-time data to researchers from reliable wildlife sources.
+
+IB MYP Criterion D -  Wildlife Tracking Research Lab (Biology 9).
 
 Written in Python.
 
