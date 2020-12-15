@@ -23,7 +23,7 @@ git@github.com:filippo-fonseca/bioscraper.git
 
 **3. Change PATH to Chrome WebDriver**
 
-Make sure you change the PATh varibale in `main.py` to link to your chromdiver on your local machine. If you do not have it, you must install it.
+Make sure you change the PATH variable in `main.py` to link to your chromdiver on your local machine. If you do not have it, you must install it.
 
 Created by [**@FilippoFonseca**](https://https://www.twitter.com/FilippoFonseca) and [**@markmusic2727.**](https://www.twitter.com/markmusic2727)
 
