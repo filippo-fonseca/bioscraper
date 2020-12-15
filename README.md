@@ -19,7 +19,9 @@ Check out a comprehensive video demo [here.](https://www.loom.com/share/f59fff8d
 git@github.com:filippo-fonseca/bioscraper.git
 ```
 
-**2. Install add dependencies**
+**2. Install all dependencies**
+
+You must have `selenium` installed on your local machine.
 
 **3. Change PATH to Chrome WebDriver**
 
