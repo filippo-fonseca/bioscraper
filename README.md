@@ -31,7 +31,7 @@ Make sure you change the `PATH` variable in `main.py` to link to your chromdiver
 PATH = "/Users/filippofonseca/Developer/SDKs/chromedriver"
 ```
 
-NOTE: In the future, the `PATH` variable will be moved to an environment variable.
+NOTE: In the future, the `PATH` variable will be migrated to an environment variable.
 
 Created by [**@FilippoFonseca**](https://https://www.twitter.com/FilippoFonseca) and [**@markmusic2727.**](https://www.twitter.com/markmusic2727)
 
